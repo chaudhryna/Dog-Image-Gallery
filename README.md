@@ -7,4 +7,4 @@ https://repl.it/@chaudhryna/210-L5-Soft-Selecting-Dog-Select-Random
 
 Here's an image of the finished app.
 
-![Image of Dog Image Gallery App]("Dog Image Gallery App")
+![Image of Dog Image Gallery App]("Dog Image Gallery App.png")
